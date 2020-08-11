@@ -21,6 +21,7 @@ Improve your aim and gain a competitive advantage with a permanant colored cross
 - Use <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd> and arrow keys for fine-tuning
 - <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>X</kbd> to lock in place
 - <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>R</kbd> to reset and recenter
+- <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>Q</kbd> to close the application
 
 
 ## Features
@@ -108,8 +109,9 @@ Description            | Keys
 Toggle the settings window and lock the crosshair in place | <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>X</kbd>
 Quickly hide/show the application                          | <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>E</kbd>
 Reset all settings and center the window                   | <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>R</kbd>
-Display the "About" window details                        | <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>A</kbd>
+Display the "About" window details                         | <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>A</kbd>
 Move the crosshair a single pixel                          | <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>Arrows</kbd>
+Close the application                                      | <kbd>Control</kbd>-<kbd>Alt</kbd>-<kbd>Shift</kbd>-<kbd>Q</kbd>
 
 
 <p align="center">

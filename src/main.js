@@ -348,6 +348,15 @@ const lockWindow = lock => {
 
 }
 
+
+const closeWindow = () => {
+
+	lockWindow( false )
+
+	app.quit()
+
+}
+
 // Switch window type when hiding chooser
 const hideChooserWindow = () => {
 
@@ -616,6 +625,11 @@ const registerComms = () => {
 
 	} )
 
+	globalShortcut.register( 'Control+Shift+Alt+Q', () => {
+
+		closeWindow()
+
+	} )
 }
 
 // Opening 2nd instance focuses app
