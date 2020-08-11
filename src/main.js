@@ -351,7 +351,7 @@ const lockWindow = lock => {
 
 const closeWindow = () => {
 
-	lockWindow( false )
+	mainWindow.closable = true
 
 	app.quit()
 
